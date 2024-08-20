@@ -1,0 +1,503 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/* header start */
+.m_nav{
+    padding: 0;
+}
+.menu ul li a {
+    margin: 0px;
+   
+}
+.c_btn{
+    font-size: 16px;
+    margin-top: 10px;
+}
+/* header end */
+/* banner start */
+.banner {
+    padding: 40px 0;
+}
+.banner_text {
+    margin-top: 40px;
+    text-align: center;
+}
+.rating {
+    margin: -50px 30px;
+    width: 215px;
+    height: 70px;
+}
+.banner_text h2 {
+    font-size: 25px;
+    line-height: 35px;
+}
+.banner_text p{
+    padding-right: 0px;
+    margin: 10px 0;
+    padding: 0 15px;
+    font-size: 16px;
+}
+.r_text span {
+    font-size: 20px;
+}
+.r_img {
+    width: 16%;
+}
+.r_img img {
+    width: 120%;
+}
+.banner_text a {
+    padding: 10px 15px;
+    font-size: 16px;
+}
+/* banner end */
+
+/* featured start */
+.featured {
+    padding-bottom: 40px;
+}
+.f_title h1 {
+    font-size: 25px;
+}
+/* featured end */
+
+/* great start */
+.great {
+    padding-bottom: 40px;
+}
+.g_text {
+    margin-top: 20px;
+    text-align: center;
+    padding: 0;
+}
+.g_text h3 {
+    font-size: 25px;
+ 
+}
+.g_text p {
+    line-height: 26px;
+    text-align: justify;
+}
+.gp2{
+    padding: 0;
+}
+.gp3{
+    padding: 0;
+}
+/* great end */
+/* client start */
+.client {
+    padding-bottom: 40px;
+}
+.c_img {
+     margin: -70px 90px;
+}
+.client .client2 {
+    left: 0;
+}
+.client_bg {
+    padding: 50px 30px;
+}
+.client_review {
+    padding: 30px 15px;
+  
+    margin:0px;
+}
+.client_text h2 {
+    font-size: 25px;
+}
+.client_text p {
+   text-align: justify;
+   line-height: 26px;
+}
+.client_text {
+    padding: 0;
+   text-align: center;
+}
+.c_text p{
+    line-height: 26px;
+}
+.c_text h5{
+    line-height: 10px;
+}
+.c_text span{
+    line-height: 0px;
+}
+.client_text button {
+    font-size: 16px;
+    padding: 8px 16px;
+}
+/* client end */
+
+/* news and event */
+.news_event {
+    padding-bottom: 40px;
+}
+.e_item {
+    padding: 15px 15px;
+    text-align: center;
+}
+.e_item h6 {
+    margin: 10px 0 5px;
+}
+.e_item h3 {
+    padding-right:0px;
+}
+
+/* news and event */
+
+/* footer start */
+footer {
+    padding: 40px 0;
+}
+.get_start p {
+    font-size: 16px;
+    margin-right: 20px;
+}
+.get_start a{
+    font-size: 16px;
+    padding: 10px 15px;
+}
+.f_middle {
+    margin: 40px 0;
+}
+.subscribe form h3 {
+    margin-left: 0px;
+    margin-top: 30px;
+}
+.subscribe form h3 {
+    margin-top: 20px;
+}
+
+.subscribe form input {
+    width: 255px;
+}
+/* footer end */
+  
+
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+.m_nav{
+    padding: 0;
+}
+.menu ul li a {
+    margin: 0px;
+   
+}
+.c_btn{
+    margin-top: 10px;
+}
+/* header end */
+/* banner start */
+.banner {
+    padding: 60px 0;
+}
+.banner_text {
+    margin-top: 40px;
+    text-align: center;
+}
+.rating {
+    margin: -90px 110px;
+}
+.banner_text h2 {
+    font-size: 35px;
+    line-height: 50px;
+}
+.banner_text p{
+    padding-right: 0px;
+    margin: 10px 0;
+    font-size: 16px;
+}
+/* banner end */
+
+/* featured start */
+.featured {
+    padding-bottom: 60px;
+}
+.f_title h1 {
+    font-size: 35px;
+}
+
+/* featured end */
+
+/* great start */
+.great{
+    padding-bottom: 60px;
+}
+.g_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.g_text h3 {
+    font-size: 25px;
+ 
+}
+.gp2{
+    padding: 0;
+}
+.gp3{
+    padding: 0;
+}
+/* great end */
+
+/* client start */
+.client {
+    padding-bottom: 60px;
+}
+.client_bg {
+    padding: 70px 70px;
+}
+.client_review {
+    margin: 0px -40px 0 40px;
+}
+.client_text h2 {
+    font-size: 25px;
+}
+.client_text {
+    padding: 0;
+   text-align: center;
+}
+.client_text button {
+    font-size: 16px;
+    padding: 8px 16px;
+}
+/* client end */
+
+/* news and event */
+.news_event {
+    padding-bottom: 60px;
+}
+/* news and event */
+
+/* footer start */
+footer {
+    padding: 60px 0;
+}
+.f_middle {
+    margin: 60px 0;
+}
+.get_start p {
+    font-size: 16px;
+    margin-right: 20px;
+}
+.get_start a{
+    font-size: 16px;
+}
+.subscribe form h3 {
+    margin-left: 0px;
+    margin-top: 30px;
+}
+/* footer end */
+   
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.m_nav{
+    padding: 0;
+}
+.menu ul li a {
+    margin: 0px;
+   
+}
+.c_btn{
+    margin-top: 10px;
+}
+/* header end */
+/* banner start */
+.banner {
+    padding: 80px 0;
+}
+.banner_text {
+    margin-top: 50px;
+    text-align: center;
+}
+.rating {
+    margin: -90px 210px;
+}
+.banner_text h2 {
+    font-size: 40px;
+    line-height: 60px;
+}
+.banner_text p{
+    padding-right: 0px;
+    margin: 15px 0;
+    font-size: 16px;
+}
+/* banner end */
+/* featured start */
+.featured {
+    padding-bottom: 80px;
+}
+/* featured end */
+
+/* great start */
+.great {
+    padding-bottom:80px;
+}
+.g_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.gp2{
+    padding: 0;
+}
+.gp3{
+    padding: 0;
+}
+/* great end */
+
+/* client start */
+.client {
+    padding-bottom: 80px;
+}
+.client_text {
+    padding-right:0px;
+    text-align: center;
+}
+.client_bg {
+    padding: 70px 50px;
+}
+
+.client_review {
+    padding: 30px 40px 20px;
+    margin: 0 50px 0 130px;
+}
+.client1 {
+    margin-bottom: -70px;
+}
+.client3 {
+    margin-top: -70px;
+}
+.client2 {
+    left: -40px;
+}
+.c_img {
+    margin: -50px -70px;
+}
+/* client end */
+/* news and event */
+.news_event {
+    padding-bottom: 80px;
+}
+/* news and event */
+
+/* footer start */
+footer {
+    padding: 80px 0;
+}
+.f_middle{
+    margin: 80px 0;
+}
+.get_start p {
+    margin-right: 30px;
+}
+.subscribe form h3 {
+    text-transform: capitalize;
+    color: #1C1C1C;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 51px;
+    margin-left: 25px;
+    text-align: left;
+}
+.subscribe form input {
+    width: 215px;
+    padding: 15px 10px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #1C1C1C;
+}
+/* footer end */
+   
+
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner start */
+.banner_text p {
+    font-size: 16px;
+}
+.banner_text h2 {
+    font-size: 50px;
+}
+.banner_text p {
+    padding-right: 90px;
+}
+/* banner end */
+
+/* great start */
+.g_timg {
+    padding: 80px 50px;
+}
+.g_text {
+    padding: 0 0px;
+}
+/* great end */
+
+/* client start */
+.client_bg {
+    padding: 70px 50px;
+}
+.client_text {
+    padding-right: 15px;
+}
+.client_review {
+    padding: 30px 40px 30px;
+    margin: 0 0 0 0px;
+}
+.client1 {
+    margin-bottom: -70px;
+}
+.client3 {
+    margin-top: -70px;
+}
+.client2 {
+    left: -40px !important;
+}
+.c_img {
+    margin: -50px -70px;
+}
+/* client end */
+
+
+/* footer start */
+.subscribe form h3 {
+    margin-left: 12px;
+}
+.subscribe form input {
+    width: 250px;
+}
+/* footer end */
+
+}
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+/* client start */
+.client_text {
+    padding-right: 80px;
+}
+.client_review{
+    margin: 0;
+}
+/* client end */
+
+}
+
+/* Extra large devices (large desktops
+, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
